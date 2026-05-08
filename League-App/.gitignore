@@ -1,0 +1,10 @@
+# dependencies
+node_modules/
+
+# environmental variables
+.env
+RIOT_API_KEY=RGAPI-173f988c-b951-45e5-b195-6a4b69a59c12
+# logs
+*.log
+
+.DS_Store
